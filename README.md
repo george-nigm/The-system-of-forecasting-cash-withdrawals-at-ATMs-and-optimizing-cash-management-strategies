@@ -1,5 +1,5 @@
 # The system of predicting cash withdrawals at ATMs and optimizing cash management strategies
-The essence of the project is to develop a system for managing cash in ATMs, the main purpose of which is to avoid running out of cash at ATMs and earn the maximum amount of money by investing the released funds from frozen cash at ATMs in short-term highly liquid and risk-free financial instruments (for example, RuOnIa).
+This is a system for optimal cash management in ATMs, the main purpose of which is to avoid running out of cash at ATMs and earn the maximum amount of money by investing the released funds from frozen cash at ATMs in short-term highly liquid and risk-free financial instruments (for example, RuOnIa).
 
 The developed system consists of two parts.
 
