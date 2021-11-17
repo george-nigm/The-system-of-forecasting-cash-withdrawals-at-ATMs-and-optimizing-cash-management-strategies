@@ -7,6 +7,6 @@ First, it predicts cash withdrawals at ATMs for 14 days ahead using method of Tr
 
 The second part is a system for building an optimal schedule for loading cash into ATM's. The obtained forecast values from the first part were used in the system of Discrete Optimal Control. Using the principle of dynamic programming, an optimal schedule was obtained, including the amount of cash and the number of days when it is necessary to conduct collection.
 
-This system allows you to manage the collection process more reliably and efficiently, earning on average 30% more money from investing in short-term financial instruments and completely eliminating the possibility of running out of funds in the terminal, compared to the classic Baumol-Tobin cash management model.
+This system allows to manage the collection process more reliably and efficiently, earning on average 30% more money from investing in short-term financial instruments and completely eliminating the possibility of running out of funds in the terminal, compared to the classic Baumol-Tobin cash management model.
 
 From an economic point of view, when using the considered model of managing money reserves in a network of information payment terminals for a single terminal, considered an ATM in India, the revenue per year will be about 200 thousand rupees, while for a city network consisting, on average, of 50 terminals, this amount will be 11.5 million rupees.
